@@ -1,5 +1,5 @@
 public class LuasPersegi {
-
+    
     public static void main(String[] args) {
         int sisi = 3;
         int luas = sisi * sisi;
