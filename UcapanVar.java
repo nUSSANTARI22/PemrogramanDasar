@@ -1,5 +1,5 @@
 public class UcapanVar {
-
+    
     public static void main(String[] args) {
         String ucapan1, ucapan2, ucapan3;
         ucapan1 = "Halo Indonesia";
